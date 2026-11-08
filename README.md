@@ -32,3 +32,5 @@
 * ☁️ [**Nubi**](https://sebaslandaold.github.io/nubi/) — Agente inteligente para el desarrollo de habilidades cognitivas en niños de preescolar.
 
 * 🛡️ [**Metadata Deleter**](https://sebastianlandaeta.github.io/Metadata-Deleter/) — Herramienta web para eliminar metadatos de imagenes y archivos PDF.
+
+* 📝 [**Bloc de Notas**](https://sebastianlandaeta.github.io/Bloc-de-notas/) — Aplicación SPA de bloc de notas construida con React, TypeScript y Vite.
